@@ -53,10 +53,6 @@ Power BI | Power Query | DAX | Data Modeling | Data Cleaning | Data Visualizatio
 
 Screenshots of all three dashboard pages are included in this repository.
 
-## 🎥 Dashboard Demo
-
-The repository also includes a video walkthrough of the interactive dashboard.
-
 ## 🚀 Outcome
 
 Developed an interactive analytical dashboard that transforms airline operational data into clear, business-focused insights and demonstrates practical skills in Power BI, DAX, Power Query, data modeling, and business analysis.
